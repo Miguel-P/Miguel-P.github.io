@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: home
 title: All Projects
 excerpt: "A List of Projects"
 comments: false
